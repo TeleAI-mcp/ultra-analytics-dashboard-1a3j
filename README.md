@@ -1,2 +1,3 @@
-# ultra-analytics-dashboard-1a3j
-Automated issue comment bot repository
+# Ultra Analytics Dashboard 1A3J
+
+Automated issue comment bot repository.
